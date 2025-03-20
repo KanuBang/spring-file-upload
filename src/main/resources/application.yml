@@ -2,7 +2,7 @@ server:
   port: 8021
 
 file:
-  dir: /Users/bangchan-u/Documents/GitHub/file-upload/src/main/resources/test/
+  dir: /Users/bangchan-u/Desktop/sprnigFileLoad/
 
 
 logging:
